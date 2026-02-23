@@ -19,6 +19,27 @@ Produce a complete Milestone B submission package with:
 - `report-template.md`
 - `heuristic-evaluation-template.md`
 - `evaluation-plan-template.md`
+- `progress_tracker.py`
+
+## Progress tracker (Python)
+
+Quick progress summary:
+
+```bash
+python3 milestone-b/progress_tracker.py
+```
+
+JSON output:
+
+```bash
+python3 milestone-b/progress_tracker.py --json
+```
+
+Use a custom checklist path:
+
+```bash
+python3 milestone-b/progress_tracker.py path/to/checklist.md
+```
 
 ## 7-day finish plan
 

@@ -9,6 +9,7 @@ This repository is organized to help complete **Milestone B** for a Human-Comput
 - `milestone-b/report-template.md`: Fill-in template for your Milestone B write-up
 - `milestone-b/heuristic-evaluation-template.md`: Structured worksheet for heuristic findings
 - `milestone-b/evaluation-plan-template.md`: Structured worksheet for planning your evaluation
+- `milestone-b/progress_tracker.py`: Python progress tracker for checklist completion
 
 ## Quick start
 
@@ -16,6 +17,12 @@ This repository is organized to help complete **Milestone B** for a Human-Comput
 2. Copy `milestone-b/report-template.md` into your working document and fill each section.
 3. Use the heuristic and evaluation templates to collect evidence.
 4. Finalize visuals, citations, and export to PDF (if needed by your class workflow).
+
+Optional progress check:
+
+```bash
+python3 milestone-b/progress_tracker.py
+```
 
 ## Suggested workflow
 
